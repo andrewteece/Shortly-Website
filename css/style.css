@@ -688,6 +688,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(156 163 175 / var(--tw-text-opacity));
 }
 
+.opacity-70 {
+  opacity: 0.7;
+}
+
 #cta {
   background-image: url('./images/bg-boost-desktop.svg');
   background-repeat: no-repeat;
